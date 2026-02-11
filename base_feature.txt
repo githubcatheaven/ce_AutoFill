@@ -1,0 +1,7 @@
+0. make a chrome extension
+1. have a interface to manage all saved forms
+2. click a button to save all info of the form
+3. saved form connect with url, can rename the form title , and have a swith button to set whether need to auto fill when web page finished refreshed
+4. all data save locally
+5. have a simply & compelling user interface and experience when using
+6. publish to my github & chrome extension store
