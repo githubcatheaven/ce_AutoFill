@@ -2,6 +2,9 @@
 
 A lightweight Chrome Extension that saves form data from any webpage and auto-fills it on revisit. Built with Manifest V3, pure JavaScript, no frameworks, no build tools.
 
+## Chrome Webstore
+https://chromewebstore.google.com/detail/autofill/ilnallncoablbmoagklldhkknchfajgm
+
 ## Features
 
 - **One-Click Save** — Click the extension icon and save all form fields on the current page
